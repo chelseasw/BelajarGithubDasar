@@ -1,3 +1,5 @@
+
+print("halo");
 x=0;
 merk = []
 kode = []
